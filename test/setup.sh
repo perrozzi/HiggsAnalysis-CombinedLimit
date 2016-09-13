@@ -60,14 +60,16 @@ EOT
 
 mkdir WlnuH
 # cp -r /afs/cern.ch/user/s/scoopers/public/July1_datacards/* WlnuH/ # 2015
-cp -r /afs/cern.ch/user/s/scoopers/public/July27_datacards_v2/* WlnuH/ # 2016
+# cp -r /afs/cern.ch/user/s/scoopers/public/July27_datacards_v2/* WlnuH/ # 2016
+cp -r /afs/cern.ch/user/s/scoopers/public/Sep12_datacards/Sep5_2015_noSFApplied/* WlnuH/ # 2015
 mkdir ZnnH 
 cp -r /afs/cern.ch/user/s/sdonato/website/VHbb/ZvvHbb/V21_tesi/FitTwoBinsTight/* ZnnH/ # 2015
 mkdir ZllH
 # cp -r /afs/cern.ch/work/d/dcurry/public/shared/datacards/6_28_final2015_DC_v5/2015_finalDC_v5/* ZllH/ # 2015
 # cp -r /afs/cern.ch/user/d/dcurry/public/shared/datacards/v23_4fb_v1/* ZllH/ # 2016
 # cp -r /afs/cern.ch/user/d/dcurry/public/shared/datacards/v21_2015_DC_8_3/* ZllH/ # 2015 pileup jet id
-cp -r /afs/cern.ch/user/d/dcurry/public/shared/datacards/v23_2016_4fb_DC_8_3/* ZllH/ # 2016 pileup jet id
+# cp -r /afs/cern.ch/user/d/dcurry/public/shared/datacards/v23_2016_4fb_DC_8_3/* ZllH/ # 2016 pileup jet id
+cp -r /afs/cern.ch/user/d/dcurry/public/shared/datacards/v21_2015_DC_PU7_8_9/* ZllH/ # 2015
 
 
 # # # # # # # # # # # # # # # #
